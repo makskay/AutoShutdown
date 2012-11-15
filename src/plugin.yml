@@ -1,6 +1,6 @@
 name: AutoShutdown
 main: net.stupendous.autoshutdown.AutoShutdownPlugin
-version: 2.3
+version: 2.4
 commands:
   autoshutdown:
     description: Interact with the AutoShutdown plugin
@@ -8,4 +8,3 @@ commands:
   as:
     description: Interact with the AutoShutdown plugin
     usage: "Usage: '/as help'"
-    
