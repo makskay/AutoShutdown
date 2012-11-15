@@ -1,8 +1,13 @@
-This is a plugin for bukkit.
+This is a plugin for Bukkit.
 
-AutoShutdown is documented on bukkitdev: http://dev.bukkit.org/server-mods/autoshutdown/
+AutoShutdown is documented on BukkitDev: http://dev.bukkit.org/server-mods/autoshutdown/
 
 CHANGELOG:
+
+Version 2.4:
+
+ * Updated to Bukkit 1.4.2-R0.2.
+ * Made shutdown warning messages configurable.
 
 Version 2.3:
 
